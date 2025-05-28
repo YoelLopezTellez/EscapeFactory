@@ -32,7 +32,7 @@ El codi font es troba a la rama MAIN i inclou:
 - Scripts de C# utilitzats a Unity
 - Escenes del joc (`.unity`)
 - Prefabs, assets, materials i models
-- Configuració del projecte Unity (versió: **[6000.1.3f1]**)
+- Configuració del projecte Unity (versió: **6000.1.3f1**)
 
 Per obrir el projecte, simplement importa la carpeta a Unity mitjançant l'opció *"Open Project"*.
 
