@@ -27,7 +27,7 @@ Descomprimeix el fitxer i executa el `.exe` o el `.x86_64` segons el teu sistema
 
 ## 💾 Codi complet del projecte
 
-El codi font es troba a la rama MAIN i inclou:
+El codi font es troba a la Branca "Main" i inclou:
 
 - Scripts de C# utilitzats a Unity
 - Escenes del joc (`.unity`)
