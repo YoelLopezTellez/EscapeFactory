@@ -1,0 +1,10 @@
+Library/
+Temp/
+Build/
+Build-Windows/
+Build-Linux/
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+*.user

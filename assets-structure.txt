@@ -1,0 +1,1679 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 0000009D D42B:E84A
+C:\USERS\YOEL\PROJECTE 5 - YOEL L‡PEZ\ASSETS
+|   InputSystem_Actions.inputactions
+|   InputSystem_Actions.inputactions.meta
+|   Prefabs.meta
+|   Readme.asset
+|   Readme.asset.meta
+|   Scenes.meta
+|   Scripts.meta
+|   Settings.meta
+|   TextMesh Pro.meta
+|   TutorialInfo.meta
+|   UI.meta
+|   UnityTechnologies.meta
+|   _ThirdParty.meta
+|   
++---Prefabs
+|   |   Puerta.meta
+|   |   Tarjetas.meta
+|   |   UI.meta
+|   |   
+|   +---Puerta
+|   |       DoorWall.prefab
+|   |       DoorWall.prefab.meta
+|   |       
+|   +---Tarjetas
+|   |       TarjetaEnergia.prefab
+|   |       TarjetaEnergia.prefab.meta
+|   |       
+|   \---UI
++---Scenes
+|       SampleScene.unity
+|       SampleScene.unity.meta
+|       
++---Scripts
+|   |   Puerta.meta
+|   |   Recogibles.meta
+|   |   UI.meta
+|   |   
+|   +---Puerta
+|   +---Recogibles
+|   |       GestorTarjetas.cs
+|   |       GestorTarjetas.cs.meta
+|   |       RecogerTarjeta.cs
+|   |       RecogerTarjeta.cs.meta
+|   |       
+|   \---UI
+|           MostrarMensaje.cs
+|           MostrarMensaje.cs.meta
+|           
++---Settings
+|       DefaultVolumeProfile.asset
+|       DefaultVolumeProfile.asset.meta
+|       Mobile_Renderer.asset
+|       Mobile_Renderer.asset.meta
+|       Mobile_RPAsset.asset
+|       Mobile_RPAsset.asset.meta
+|       PC_Renderer.asset
+|       PC_Renderer.asset.meta
+|       PC_RPAsset.asset
+|       PC_RPAsset.asset.meta
+|       SampleSceneProfile.asset
+|       SampleSceneProfile.asset.meta
+|       UniversalRenderPipelineGlobalSettings.asset
+|       UniversalRenderPipelineGlobalSettings.asset.meta
+|       
++---TextMesh Pro
+|   |   Documentation.meta
+|   |   Examples & Extras.meta
+|   |   Fonts.meta
+|   |   Resources.meta
+|   |   Shaders.meta
+|   |   Sprites.meta
+|   |   
+|   +---Documentation
+|   |       TextMesh Pro User Guide 2016.pdf
+|   |       TextMesh Pro User Guide 2016.pdf.meta
+|   |       
+|   +---Examples & Extras
+|   |   |   Fonts.meta
+|   |   |   Materials.meta
+|   |   |   Prefabs.meta
+|   |   |   Resources.meta
+|   |   |   Sprites.meta
+|   |   |   Textures.meta
+|   |   |   
+|   |   +---Fonts
+|   |   |       Anton OFL.txt
+|   |   |       Anton OFL.txt.meta
+|   |   |       Anton.ttf
+|   |   |       Anton.ttf.meta
+|   |   |       Bangers - OFL.txt
+|   |   |       Bangers - OFL.txt.meta
+|   |   |       Bangers.ttf
+|   |   |       Bangers.ttf.meta
+|   |   |       Electronic Highway Sign.TTF
+|   |   |       Electronic Highway Sign.TTF.meta
+|   |   |       Oswald-Bold - OFL.txt
+|   |   |       Oswald-Bold - OFL.txt.meta
+|   |   |       Oswald-Bold.ttf
+|   |   |       Oswald-Bold.ttf.meta
+|   |   |       Roboto-Bold - AFL.txt
+|   |   |       Roboto-Bold - AFL.txt.meta
+|   |   |       Roboto-Bold - License.txt
+|   |   |       Roboto-Bold - License.txt.meta
+|   |   |       Roboto-Bold.ttf
+|   |   |       Roboto-Bold.ttf.meta
+|   |   |       Unity - OFL.txt
+|   |   |       Unity - OFL.txt.meta
+|   |   |       Unity.ttf
+|   |   |       Unity.ttf.meta
+|   |   |       
+|   |   +---Materials
+|   |   |       Crate - Surface Shader Scene.mat
+|   |   |       Crate - Surface Shader Scene.mat.meta
+|   |   |       Ground - Logo Scene.mat
+|   |   |       Ground - Logo Scene.mat.meta
+|   |   |       Ground - Surface Shader Scene.mat
+|   |   |       Ground - Surface Shader Scene.mat.meta
+|   |   |       Small Crate_diffuse.mat
+|   |   |       Small Crate_diffuse.mat.meta
+|   |   |       
+|   |   +---Prefabs
+|   |   |       Text Popup.prefab
+|   |   |       Text Popup.prefab.meta
+|   |   |       TextMeshPro - Prefab 1.prefab
+|   |   |       TextMeshPro - Prefab 1.prefab.meta
+|   |   |       TextMeshPro - Prefab 2.prefab
+|   |   |       TextMeshPro - Prefab 2.prefab.meta
+|   |   |       
+|   |   +---Resources
+|   |   |   |   Color Gradient Presets.meta
+|   |   |   |   Fonts & Materials.meta
+|   |   |   |   Sprite Assets.meta
+|   |   |   |   
+|   |   |   +---Color Gradient Presets
+|   |   |   |       Blue to Purple - Vertical.asset
+|   |   |   |       Blue to Purple - Vertical.asset.meta
+|   |   |   |       Dark to Light Green - Vertical.asset
+|   |   |   |       Dark to Light Green - Vertical.asset.meta
+|   |   |   |       Light to Dark Green - Vertical.asset
+|   |   |   |       Light to Dark Green - Vertical.asset.meta
+|   |   |   |       Yellow to Orange - Vertical.asset
+|   |   |   |       Yellow to Orange - Vertical.asset.meta
+|   |   |   |       
+|   |   |   +---Fonts & Materials
+|   |   |   |       Anton SDF - Drop Shadow.mat
+|   |   |   |       Anton SDF - Drop Shadow.mat.meta
+|   |   |   |       Anton SDF - Outline.mat
+|   |   |   |       Anton SDF - Outline.mat.meta
+|   |   |   |       Anton SDF - Sunny Days.mat
+|   |   |   |       Anton SDF - Sunny Days.mat.meta
+|   |   |   |       Anton SDF.asset
+|   |   |   |       Anton SDF.asset.meta
+|   |   |   |       Bangers SDF - Drop Shadow - 2 Pass.mat
+|   |   |   |       Bangers SDF - Drop Shadow - 2 Pass.mat.meta
+|   |   |   |       Bangers SDF - Drop Shadow.mat
+|   |   |   |       Bangers SDF - Drop Shadow.mat.meta
+|   |   |   |       Bangers SDF - Outline.mat
+|   |   |   |       Bangers SDF - Outline.mat.meta
+|   |   |   |       Bangers SDF Glow.mat
+|   |   |   |       Bangers SDF Glow.mat.meta
+|   |   |   |       Bangers SDF Logo.mat
+|   |   |   |       Bangers SDF Logo.mat.meta
+|   |   |   |       Bangers SDF.asset
+|   |   |   |       Bangers SDF.asset.meta
+|   |   |   |       Electronic Highway Sign SDF.asset
+|   |   |   |       Electronic Highway Sign SDF.asset.meta
+|   |   |   |       LiberationSans SDF - Metalic Green.mat
+|   |   |   |       LiberationSans SDF - Metalic Green.mat.meta
+|   |   |   |       LiberationSans SDF - Overlay.mat
+|   |   |   |       LiberationSans SDF - Overlay.mat.meta
+|   |   |   |       LiberationSans SDF - Soft Mask.mat
+|   |   |   |       LiberationSans SDF - Soft Mask.mat.meta
+|   |   |   |       Oswald Bold SDF.asset
+|   |   |   |       Oswald Bold SDF.asset.meta
+|   |   |   |       Roboto-Bold SDF - Drop Shadow.mat
+|   |   |   |       Roboto-Bold SDF - Drop Shadow.mat.meta
+|   |   |   |       Roboto-Bold SDF - HDRP Unlit.mat
+|   |   |   |       Roboto-Bold SDF - HDRP Unlit.mat.meta
+|   |   |   |       Roboto-Bold SDF - Surface.mat
+|   |   |   |       Roboto-Bold SDF - Surface.mat.meta
+|   |   |   |       Roboto-Bold SDF.asset
+|   |   |   |       Roboto-Bold SDF.asset.meta
+|   |   |   |       Unity SDF - HDRP LIT - Bloom.mat
+|   |   |   |       Unity SDF - HDRP LIT - Bloom.mat.meta
+|   |   |   |       Unity SDF - HDRP LIT - Outline.mat
+|   |   |   |       Unity SDF - HDRP LIT - Outline.mat.meta
+|   |   |   |       Unity SDF.asset
+|   |   |   |       Unity SDF.asset.meta
+|   |   |   |       
+|   |   |   \---Sprite Assets
+|   |   |           Default Sprite Asset.asset
+|   |   |           Default Sprite Asset.asset.meta
+|   |   |           DropCap Numbers.asset
+|   |   |           DropCap Numbers.asset.meta
+|   |   |           
+|   |   +---Sprites
+|   |   |       Default Sprites.png
+|   |   |       Default Sprites.png.meta
+|   |   |       DropCap Numbers.psd
+|   |   |       DropCap Numbers.psd.meta
+|   |   |       
+|   |   \---Textures
+|   |           Brushed Metal 3.jpg
+|   |           Brushed Metal 3.jpg.meta
+|   |           Floor Cement.jpg
+|   |           Floor Cement.jpg.meta
+|   |           Floor Tiles 1 - diffuse.jpg
+|   |           Floor Tiles 1 - diffuse.jpg.meta
+|   |           Fruit Jelly (B&W).jpg
+|   |           Fruit Jelly (B&W).jpg.meta
+|   |           Gradient Diagonal (Color).jpg
+|   |           Gradient Diagonal (Color).jpg.meta
+|   |           Gradient Horizontal (Color).jpg
+|   |           Gradient Horizontal (Color).jpg.meta
+|   |           Gradient Vertical (Color).jpg
+|   |           Gradient Vertical (Color).jpg.meta
+|   |           Mask Zig-n-Zag.psd
+|   |           Mask Zig-n-Zag.psd.meta
+|   |           Small Crate_diffuse.jpg
+|   |           Small Crate_diffuse.jpg.meta
+|   |           Small Crate_normal.jpg
+|   |           Small Crate_normal.jpg.meta
+|   |           Sunny Days - Seamless.jpg
+|   |           Sunny Days - Seamless.jpg.meta
+|   |           Text Overflow - Linked Text Image 1.png
+|   |           Text Overflow - Linked Text Image 1.png.meta
+|   |           Text Overflow - Linked Text UI Screenshot.png
+|   |           Text Overflow - Linked Text UI Screenshot.png.meta
+|   |           Wipe Pattern - Circle.psd
+|   |           Wipe Pattern - Circle.psd.meta
+|   |           Wipe Pattern - Diagonal.psd
+|   |           Wipe Pattern - Diagonal.psd.meta
+|   |           Wipe Pattern - Radial Double.psd
+|   |           Wipe Pattern - Radial Double.psd.meta
+|   |           Wipe Pattern - Radial Quad.psd
+|   |           Wipe Pattern - Radial Quad.psd.meta
+|   |           
+|   +---Fonts
+|   |       LiberationSans - OFL.txt
+|   |       LiberationSans - OFL.txt.meta
+|   |       LiberationSans.ttf
+|   |       LiberationSans.ttf.meta
+|   |       
+|   +---Resources
+|   |   |   Fonts & Materials.meta
+|   |   |   TMP Settings.asset
+|   |   |   TMP Settings.asset.meta
+|   |   |   
+|   |   \---Fonts & Materials
+|   |           LiberationSans SDF - Drop Shadow.mat
+|   |           LiberationSans SDF - Drop Shadow.mat.meta
+|   |           LiberationSans SDF - Fallback.asset
+|   |           LiberationSans SDF - Fallback.asset.meta
+|   |           LiberationSans SDF - Outline.mat
+|   |           LiberationSans SDF - Outline.mat.meta
+|   |           LiberationSans SDF.asset
+|   |           LiberationSans SDF.asset.meta
+|   |           
+|   +---Shaders
+|   |       SDFFunctions.hlsl
+|   |       SDFFunctions.hlsl.meta
+|   |       TMPro.cginc
+|   |       TMPro.cginc.meta
+|   |       TMPro_Mobile.cginc
+|   |       TMPro_Mobile.cginc.meta
+|   |       TMPro_Properties.cginc
+|   |       TMPro_Properties.cginc.meta
+|   |       TMPro_Surface.cginc
+|   |       TMPro_Surface.cginc.meta
+|   |       TMP_Bitmap-Custom-Atlas.shader
+|   |       TMP_Bitmap-Custom-Atlas.shader.meta
+|   |       TMP_Bitmap-Mobile.shader
+|   |       TMP_Bitmap-Mobile.shader.meta
+|   |       TMP_Bitmap.shader
+|   |       TMP_Bitmap.shader.meta
+|   |       TMP_SDF Overlay.shader
+|   |       TMP_SDF Overlay.shader.meta
+|   |       TMP_SDF SSD.shader
+|   |       TMP_SDF SSD.shader.meta
+|   |       TMP_SDF-HDRP LIT.shadergraph
+|   |       TMP_SDF-HDRP LIT.shadergraph.meta
+|   |       TMP_SDF-HDRP UNLIT.shadergraph
+|   |       TMP_SDF-HDRP UNLIT.shadergraph.meta
+|   |       TMP_SDF-Mobile Masking.shader
+|   |       TMP_SDF-Mobile Masking.shader.meta
+|   |       TMP_SDF-Mobile Overlay.shader
+|   |       TMP_SDF-Mobile Overlay.shader.meta
+|   |       TMP_SDF-Mobile SSD.shader
+|   |       TMP_SDF-Mobile SSD.shader.meta
+|   |       TMP_SDF-Mobile-2-Pass.shader
+|   |       TMP_SDF-Mobile-2-Pass.shader.meta
+|   |       TMP_SDF-Mobile.shader
+|   |       TMP_SDF-Mobile.shader.meta
+|   |       TMP_SDF-Surface-Mobile.shader
+|   |       TMP_SDF-Surface-Mobile.shader.meta
+|   |       TMP_SDF-Surface.shader
+|   |       TMP_SDF-Surface.shader.meta
+|   |       TMP_SDF-URP Lit.shadergraph
+|   |       TMP_SDF-URP Lit.shadergraph.meta
+|   |       TMP_SDF-URP Unlit.shadergraph
+|   |       TMP_SDF-URP Unlit.shadergraph.meta
+|   |       TMP_SDF.shader
+|   |       TMP_SDF.shader.meta
+|   |       TMP_Sprite.shader
+|   |       TMP_Sprite.shader.meta
+|   |       
+|   \---Sprites
+|           EmojiOne Attribution.txt
+|           EmojiOne Attribution.txt.meta
+|           EmojiOne.json
+|           EmojiOne.json.meta
+|           EmojiOne.png
+|           EmojiOne.png.meta
+|           
++---TutorialInfo
+|   |   Icons.meta
+|   |   Layout.wlt
+|   |   Layout.wlt.meta
+|   |   Scripts.meta
+|   |   
+|   +---Icons
+|   |       URP.png
+|   |       URP.png.meta
+|   |       
+|   \---Scripts
+|       |   Editor.meta
+|       |   Readme.cs
+|       |   Readme.cs.meta
+|       |   
+|       \---Editor
+|               ReadmeEditor.cs
+|               ReadmeEditor.cs.meta
+|               
++---UI
+|   |   HUD.meta
+|   |   
+|   \---HUD
++---UnityTechnologies
+|   |   Editor.meta
+|   |   LevelUpYourCode.meta
+|   |   license.txt
+|   |   license.txt.meta
+|   |   RobotKyle.meta
+|   |   Scenes.meta
+|   |   Settings.meta
+|   |   StarterAssets.meta
+|   |   
+|   +---Editor
+|   |       URPWizard.asmdef
+|   |       URPWizard.asmdef.meta
+|   |       URPWizard.cs
+|   |       URPWizard.cs.meta
+|   |       
+|   +---LevelUpYourCode
+|   |   |   Art.meta
+|   |   |   Prefabs.meta
+|   |   |   Scenes.meta
+|   |   |   _DesignPatterns.meta
+|   |   |   _SOLID.meta
+|   |   |   
+|   |   +---Art
+|   |   |   |   Audio.meta
+|   |   |   |   Environments.meta
+|   |   |   |   Particles.meta
+|   |   |   |   Thumbnails.meta
+|   |   |   |   
+|   |   |   +---Audio
+|   |   |   |       Hiss.mp3
+|   |   |   |       Hiss.mp3.meta
+|   |   |   |       MenuLoad.aif
+|   |   |   |       MenuLoad.aif.meta
+|   |   |   |       ShooterTargetSpawn.aif
+|   |   |   |       ShooterTargetSpawn.aif.meta
+|   |   |   |       ShooterWeapon.aif
+|   |   |   |       ShooterWeapon.aif.meta
+|   |   |   |       
+|   |   |   +---Environments
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Materials
+|   |   |   |   |   |   BlueUnlit_Mat.mat
+|   |   |   |   |   |   BlueUnlit_Mat.mat.meta
+|   |   |   |   |   |   Blue_Mat.mat
+|   |   |   |   |   |   Blue_Mat.mat.meta
+|   |   |   |   |   |   CubeMat.mat
+|   |   |   |   |   |   CubeMat.mat.meta
+|   |   |   |   |   |   DeepPink_Mat.mat
+|   |   |   |   |   |   DeepPink_Mat.mat.meta
+|   |   |   |   |   |   ExamplesBlue_Mat.mat
+|   |   |   |   |   |   ExamplesBlue_Mat.mat.meta
+|   |   |   |   |   |   ExamplesCyan_Mat.mat
+|   |   |   |   |   |   ExamplesCyan_Mat.mat.meta
+|   |   |   |   |   |   ExamplesDarkBlue_Mat.mat
+|   |   |   |   |   |   ExamplesDarkBlue_Mat.mat.meta
+|   |   |   |   |   |   ExamplesLime_Mat.mat
+|   |   |   |   |   |   ExamplesLime_Mat.mat.meta
+|   |   |   |   |   |   ExamplesMagenta_Mat.mat
+|   |   |   |   |   |   ExamplesMagenta_Mat.mat.meta
+|   |   |   |   |   |   ExamplesOrange_Mat.mat
+|   |   |   |   |   |   ExamplesOrange_Mat.mat.meta
+|   |   |   |   |   |   ExamplesTeal_Mat.mat
+|   |   |   |   |   |   ExamplesTeal_Mat.mat.meta
+|   |   |   |   |   |   Flyer.meta
+|   |   |   |   |   |   GreyBlue_Mat.mat
+|   |   |   |   |   |   GreyBlue_Mat.mat.meta
+|   |   |   |   |   |   Grid.meta
+|   |   |   |   |   |   Laser_Red_Mat.mat
+|   |   |   |   |   |   Laser_Red_Mat.mat.meta
+|   |   |   |   |   |   Maze.meta
+|   |   |   |   |   |   Particles.meta
+|   |   |   |   |   |   ShooterBg.mat
+|   |   |   |   |   |   ShooterBg.mat.meta
+|   |   |   |   |   |   ShooterTarget.mat
+|   |   |   |   |   |   ShooterTarget.mat.meta
+|   |   |   |   |   |   Target_Mat.mat
+|   |   |   |   |   |   Target_Mat.mat.meta
+|   |   |   |   |   |   
+|   |   |   |   |   +---Flyer
+|   |   |   |   |   |       FlyerPlayership.mat
+|   |   |   |   |   |       FlyerPlayership.mat.meta
+|   |   |   |   |   |       FlyerPlayershipUnrefactored.mat
+|   |   |   |   |   |       FlyerPlayershipUnrefactored.mat.meta
+|   |   |   |   |   |       
+|   |   |   |   |   +---Grid
+|   |   |   |   |   |       GridBlue_01_Mat.mat
+|   |   |   |   |   |       GridBlue_01_Mat.mat.meta
+|   |   |   |   |   |       GridOrange_01_Mat.mat
+|   |   |   |   |   |       GridOrange_01_Mat.mat.meta
+|   |   |   |   |   |       GridWhite_01_Mat.mat
+|   |   |   |   |   |       GridWhite_01_Mat.mat.meta
+|   |   |   |   |   |       
+|   |   |   |   |   +---Maze
+|   |   |   |   |   |       MazeAgentPath_Mat.mat
+|   |   |   |   |   |       MazeAgentPath_Mat.mat.meta
+|   |   |   |   |   |       MazeBg_Mat.mat
+|   |   |   |   |   |       MazeBg_Mat.mat.meta
+|   |   |   |   |   |       MazeLowMan_Mat.mat
+|   |   |   |   |   |       MazeLowMan_Mat.mat.meta
+|   |   |   |   |   |       MazePowerCable_Mat.mat
+|   |   |   |   |   |       MazePowerCable_Mat.mat.meta
+|   |   |   |   |   |       MazePowerConsole_Mat.mat
+|   |   |   |   |   |       MazePowerConsole_Mat.mat.meta
+|   |   |   |   |   |       MazerFloor_Mat.mat
+|   |   |   |   |   |       MazerFloor_Mat.mat.meta
+|   |   |   |   |   |       MazeTurretHousing_Mat.mat
+|   |   |   |   |   |       MazeTurretHousing_Mat.mat.meta
+|   |   |   |   |   |       MazeTurret_Mat.mat
+|   |   |   |   |   |       MazeTurret_Mat.mat.meta
+|   |   |   |   |   |       MazeWallsWhite_Mat.mat
+|   |   |   |   |   |       MazeWallsWhite_Mat.mat.meta
+|   |   |   |   |   |       
+|   |   |   |   |   \---Particles
+|   |   |   |   |           ParticleConfetti_Mat.mat
+|   |   |   |   |           ParticleConfetti_Mat.mat.meta
+|   |   |   |   |           ParticleEmbersWhite_Mat.mat
+|   |   |   |   |           ParticleEmbersWhite_Mat.mat.meta
+|   |   |   |   |           ParticleFlare_Mat.mat
+|   |   |   |   |           ParticleFlare_Mat.mat.meta
+|   |   |   |   |           ParticleGlowWhite_Mat.mat
+|   |   |   |   |           ParticleGlowWhite_Mat.mat.meta
+|   |   |   |   |           ParticleGunFlare_Mat.mat
+|   |   |   |   |           ParticleGunFlare_Mat.mat.meta
+|   |   |   |   |           ParticleShockwave_Mat.mat
+|   |   |   |   |           ParticleShockwave_Mat.mat.meta
+|   |   |   |   |           ParticleThruster_Mat.mat
+|   |   |   |   |           ParticleThruster_Mat.mat.meta
+|   |   |   |   |           ParticleTracers_Mat.mat
+|   |   |   |   |           ParticleTracers_Mat.mat.meta
+|   |   |   |   |           
+|   |   |   |   +---Meshes
+|   |   |   |   |   |   Box.fbx
+|   |   |   |   |   |   Box.fbx.meta
+|   |   |   |   |   |   Box_350x250x200_Mesh.fbx
+|   |   |   |   |   |   Box_350x250x200_Mesh.fbx.meta
+|   |   |   |   |   |   Box_350x250x300_Mesh.fbx
+|   |   |   |   |   |   Box_350x250x300_Mesh.fbx.meta
+|   |   |   |   |   |   Flyer.meta
+|   |   |   |   |   |   Ground_Mesh.fbx
+|   |   |   |   |   |   Ground_Mesh.fbx.meta
+|   |   |   |   |   |   Materials.meta
+|   |   |   |   |   |   MazeTurret.fbx
+|   |   |   |   |   |   MazeTurret.fbx.meta
+|   |   |   |   |   |   Mesh_Projectile.fbx
+|   |   |   |   |   |   Mesh_Projectile.fbx.meta
+|   |   |   |   |   |   Ramp_Mesh.fbx
+|   |   |   |   |   |   Ramp_Mesh.fbx.meta
+|   |   |   |   |   |   Stairs_200x100x200_Mesh.fbx
+|   |   |   |   |   |   Stairs_200x100x200_Mesh.fbx.meta
+|   |   |   |   |   |   Stairs_650_400_300_Mesh.fbx
+|   |   |   |   |   |   Stairs_650_400_300_Mesh.fbx.meta
+|   |   |   |   |   |   Structure_Mesh.fbx
+|   |   |   |   |   |   Structure_Mesh.fbx.meta
+|   |   |   |   |   |   Tunnel_Mesh.fbx
+|   |   |   |   |   |   Tunnel_Mesh.fbx.meta
+|   |   |   |   |   |   Wall_Mesh.fbx
+|   |   |   |   |   |   Wall_Mesh.fbx.meta
+|   |   |   |   |   |   
+|   |   |   |   |   +---Flyer
+|   |   |   |   |   |   |   FlyerGate.fbx
+|   |   |   |   |   |   |   FlyerGate.fbx.meta
+|   |   |   |   |   |   |   FlyerPlayership.fbx
+|   |   |   |   |   |   |   FlyerPlayership.fbx.meta
+|   |   |   |   |   |   |   Materials.meta
+|   |   |   |   |   |   |   
+|   |   |   |   |   |   \---Materials
+|   |   |   |   |   |           FlyerGate.mat
+|   |   |   |   |   |           FlyerGate.mat.meta
+|   |   |   |   |   |           FlyerPlayership.mat
+|   |   |   |   |   |           FlyerPlayership.mat.meta
+|   |   |   |   |   |           FlyerPlayershipAlbedo.mat
+|   |   |   |   |   |           FlyerPlayershipAlbedo.mat.meta
+|   |   |   |   |   |           
+|   |   |   |   |   \---Materials
+|   |   |   |   |           MazeTurret.mat
+|   |   |   |   |           MazeTurret.mat.meta
+|   |   |   |   |           MazeTurretHousing.mat
+|   |   |   |   |           MazeTurretHousing.mat.meta
+|   |   |   |   |           
+|   |   |   |   +---Prefabs
+|   |   |   |   |       Box_100x100x100_Prefab.prefab
+|   |   |   |   |       Box_100x100x100_Prefab.prefab.meta
+|   |   |   |   |       Box_350x250x200_Prefab.prefab
+|   |   |   |   |       Box_350x250x200_Prefab.prefab.meta
+|   |   |   |   |       Box_350x250x300_Prefab.prefab
+|   |   |   |   |       Box_350x250x300_Prefab.prefab.meta
+|   |   |   |   |       Environment_Prefab.prefab
+|   |   |   |   |       Environment_Prefab.prefab.meta
+|   |   |   |   |       FactoryAssets.prefab
+|   |   |   |   |       FactoryAssets.prefab.meta
+|   |   |   |   |       ObjectPoolAssets.prefab
+|   |   |   |   |       ObjectPoolAssets.prefab.meta
+|   |   |   |   |       Ramp_Prefab.prefab
+|   |   |   |   |       Ramp_Prefab.prefab.meta
+|   |   |   |   |       SingleResponsibilityAssets.prefab
+|   |   |   |   |       SingleResponsibilityAssets.prefab.meta
+|   |   |   |   |       SingletonAssets.prefab
+|   |   |   |   |       SingletonAssets.prefab.meta
+|   |   |   |   |       Sphere.prefab
+|   |   |   |   |       Sphere.prefab.meta
+|   |   |   |   |       Stairs_200x100x200_Prefab.prefab
+|   |   |   |   |       Stairs_200x100x200_Prefab.prefab.meta
+|   |   |   |   |       Stairs_650_400_300_Prefab.prefab
+|   |   |   |   |       Stairs_650_400_300_Prefab.prefab.meta
+|   |   |   |   |       StateAssets.prefab
+|   |   |   |   |       StateAssets.prefab.meta
+|   |   |   |   |       Structure_Prefab.prefab
+|   |   |   |   |       Structure_Prefab.prefab.meta
+|   |   |   |   |       Tunnel_Prefab.prefab
+|   |   |   |   |       Tunnel_Prefab.prefab.meta
+|   |   |   |   |       Wall_Prefab.prefab
+|   |   |   |   |       Wall_Prefab.prefab.meta
+|   |   |   |   |       
+|   |   |   |   \---Textures
+|   |   |   |       |   BgAlbedo.tif
+|   |   |   |       |   BgAlbedo.tif.meta
+|   |   |   |       |   Flyer.meta
+|   |   |   |       |   FlyerGateAlbedo.tif
+|   |   |   |       |   FlyerGateAlbedo.tif.meta
+|   |   |   |       |   Grid.meta
+|   |   |   |       |   GUI.meta
+|   |   |   |       |   Maze.meta
+|   |   |   |       |   Sprites.meta
+|   |   |   |       |   
+|   |   |   |       +---Flyer
+|   |   |   |       |       FlyerPlayershipAlbedo.tif
+|   |   |   |       |       FlyerPlayershipAlbedo.tif.meta
+|   |   |   |       |       FlyerPlayershipEmission.tif
+|   |   |   |       |       FlyerPlayershipEmission.tif.meta
+|   |   |   |       |       FlyerPlayershipOcclusion.tif
+|   |   |   |       |       FlyerPlayershipOcclusion.tif.meta
+|   |   |   |       |       
+|   |   |   |       +---Grid
+|   |   |   |       |       Grid_01_BaseMap.png
+|   |   |   |       |       Grid_01_BaseMap.png.meta
+|   |   |   |       |       Grid_01_Emissive.png
+|   |   |   |       |       Grid_01_Emissive.png.meta
+|   |   |   |       |       Grid_01_Normal.png
+|   |   |   |       |       Grid_01_Normal.png.meta
+|   |   |   |       |       Grid_02_BaseMap.png
+|   |   |   |       |       Grid_02_BaseMap.png.meta
+|   |   |   |       |       
+|   |   |   |       +---GUI
+|   |   |   |       |       GUIArrows.tif
+|   |   |   |       |       GUIArrows.tif.meta
+|   |   |   |       |       GUIBlankMarker.tif
+|   |   |   |       |       GUIBlankMarker.tif.meta
+|   |   |   |       |       GUICircleIndicator.tif
+|   |   |   |       |       GUICircleIndicator.tif.meta
+|   |   |   |       |       GUIExitMarker.tif
+|   |   |   |       |       GUIExitMarker.tif.meta
+|   |   |   |       |       GUIHealth.tif
+|   |   |   |       |       GUIHealth.tif.meta
+|   |   |   |       |       GUIInteractionMarker.tif
+|   |   |   |       |       GUIInteractionMarker.tif.meta
+|   |   |   |       |       GUINavigationMarker.tif
+|   |   |   |       |       GUINavigationMarker.tif.meta
+|   |   |   |       |       GUIPowerMarker.tif
+|   |   |   |       |       GUIPowerMarker.tif.meta
+|   |   |   |       |       GUIReticle.tif
+|   |   |   |       |       GUIReticle.tif.meta
+|   |   |   |       |       GUIReticleSwatch.tif
+|   |   |   |       |       GUIReticleSwatch.tif.meta
+|   |   |   |       |       GUIStartMarker.tif
+|   |   |   |       |       GUIStartMarker.tif.meta
+|   |   |   |       |       GUITargetReticle.tif
+|   |   |   |       |       GUITargetReticle.tif.meta
+|   |   |   |       |       GUITimer.tif
+|   |   |   |       |       GUITimer.tif.meta
+|   |   |   |       |       GUITurretMarker.tif
+|   |   |   |       |       GUITurretMarker.tif.meta
+|   |   |   |       |       VRIcon.png
+|   |   |   |       |       VRIcon.png.meta
+|   |   |   |       |       
+|   |   |   |       +---Maze
+|   |   |   |       |       MazePowerConsoleAlbedo.tif
+|   |   |   |       |       MazePowerConsoleAlbedo.tif.meta
+|   |   |   |       |       MazePowerConsoleOcclusion.tif
+|   |   |   |       |       MazePowerConsoleOcclusion.tif.meta
+|   |   |   |       |       MazeTurretAlbedo.tif
+|   |   |   |       |       MazeTurretAlbedo.tif.meta
+|   |   |   |       |       MazeTurretOcclusion.tif
+|   |   |   |       |       MazeTurretOcclusion.tif.meta
+|   |   |   |       |       
+|   |   |   |       \---Sprites
+|   |   |   |               ArrowLeftTriangle.png
+|   |   |   |               ArrowLeftTriangle.png.meta
+|   |   |   |               CStyleGuideGraphic.png
+|   |   |   |               CStyleGuideGraphic.png.meta
+|   |   |   |               DesignPatternsCloseGraphic.png
+|   |   |   |               DesignPatternsCloseGraphic.png.meta
+|   |   |   |               DesignPatternsGraphic.png
+|   |   |   |               DesignPatternsGraphic.png.meta
+|   |   |   |               EbooksGraphic.png
+|   |   |   |               EbooksGraphic.png.meta
+|   |   |   |               MainMenuGraphic.png
+|   |   |   |               MainMenuGraphic.png.meta
+|   |   |   |               QuizUGraphic.png
+|   |   |   |               QuizUGraphic.png.meta
+|   |   |   |               ScriptableObjectsGraphic.png
+|   |   |   |               ScriptableObjectsGraphic.png.meta
+|   |   |   |               
+|   |   |   +---Particles
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Shaders.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Materials
+|   |   |   |   |       AirSupport_Mat.mat
+|   |   |   |   |       AirSupport_Mat.mat.meta
+|   |   |   |   |       CircleEffect_Mat.mat
+|   |   |   |   |       CircleEffect_Mat.mat.meta
+|   |   |   |   |       CircleShockwave_Mat.mat
+|   |   |   |   |       CircleShockwave_Mat.mat.meta
+|   |   |   |   |       EnergyShockwave_Mat.mat
+|   |   |   |   |       EnergyShockwave_Mat.mat.meta
+|   |   |   |   |       ExplosionDistortion_Mat.mat
+|   |   |   |   |       ExplosionDistortion_Mat.mat.meta
+|   |   |   |   |       FirstAidEffect_Mat.mat
+|   |   |   |   |       FirstAidEffect_Mat.mat.meta
+|   |   |   |   |       HexagonEffect_Mat.mat
+|   |   |   |   |       HexagonEffect_Mat.mat.meta
+|   |   |   |   |       RadarEffect_Mat.mat
+|   |   |   |   |       RadarEffect_Mat.mat.meta
+|   |   |   |   |       ShieldEffect_Mat.mat
+|   |   |   |   |       ShieldEffect_Mat.mat.meta
+|   |   |   |   |       SpeedUpEffect_Mat.mat
+|   |   |   |   |       SpeedUpEffect_Mat.mat.meta
+|   |   |   |   |       SquareEffect_Mat.mat
+|   |   |   |   |       SquareEffect_Mat.mat.meta
+|   |   |   |   |       TriangleEffect_Mat.mat
+|   |   |   |   |       TriangleEffect_Mat.mat.meta
+|   |   |   |   |       TriangleShockwave_Mat.mat
+|   |   |   |   |       TriangleShockwave_Mat.mat.meta
+|   |   |   |   |       
+|   |   |   |   +---Prefabs
+|   |   |   |   |       CircleShockwave.prefab
+|   |   |   |   |       CircleShockwave.prefab.meta
+|   |   |   |   |       SquareShockwave.prefab
+|   |   |   |   |       SquareShockwave.prefab.meta
+|   |   |   |   |       TriangleShockwave.prefab
+|   |   |   |   |       TriangleShockwave.prefab.meta
+|   |   |   |   |       
+|   |   |   |   +---Shaders
+|   |   |   |   |       PriorityParticleAlpha.shader
+|   |   |   |   |       PriorityParticleAlpha.shader.meta
+|   |   |   |   |       SeparableAlpha.shader
+|   |   |   |   |       SeparableAlpha.shader.meta
+|   |   |   |   |       SlidingUV.shader
+|   |   |   |   |       SlidingUV.shader.meta
+|   |   |   |   |       UIOverlay.shader
+|   |   |   |   |       UIOverlay.shader.meta
+|   |   |   |   |       UnlitTransparentParam.shader
+|   |   |   |   |       UnlitTransparentParam.shader.meta
+|   |   |   |   |       
+|   |   |   |   \---Textures
+|   |   |   |           circle.tif
+|   |   |   |           circle.tif.meta
+|   |   |   |           CircleOutline.png
+|   |   |   |           CircleOutline.png.meta
+|   |   |   |           HexagonOutline.png
+|   |   |   |           HexagonOutline.png.meta
+|   |   |   |           ParticleShockwaveAlpha.tif
+|   |   |   |           ParticleShockwaveAlpha.tif.meta
+|   |   |   |           ParticleSpark.tif
+|   |   |   |           ParticleSpark.tif.meta
+|   |   |   |           ParticleSparkAlpha.tif
+|   |   |   |           ParticleSparkAlpha.tif.meta
+|   |   |   |           ParticleStar.tif
+|   |   |   |           ParticleStar.tif.meta
+|   |   |   |           shockwave.tif
+|   |   |   |           shockwave.tif.meta
+|   |   |   |           SphereNormal.tif
+|   |   |   |           SphereNormal.tif.meta
+|   |   |   |           square.tif
+|   |   |   |           square.tif.meta
+|   |   |   |           SquareOutline.png
+|   |   |   |           SquareOutline.png.meta
+|   |   |   |           triangle.tif
+|   |   |   |           triangle.tif.meta
+|   |   |   |           TriangleOutline.png
+|   |   |   |           TriangleOutline.png.meta
+|   |   |   |           
+|   |   |   \---Thumbnails
+|   |   |           CommandThumb512.png
+|   |   |           CommandThumb512.png.meta
+|   |   |           DesignPatternThumb512.png
+|   |   |           DesignPatternThumb512.png.meta
+|   |   |           DIPThumb512.png
+|   |   |           DIPThumb512.png.meta
+|   |   |           DirtyFlagThumb512.png
+|   |   |           DirtyFlagThumb512.png.meta
+|   |   |           FactoryThumb512.png
+|   |   |           FactoryThumb512.png.meta
+|   |   |           FlyweightThumb512.png
+|   |   |           FlyweightThumb512.png.meta
+|   |   |           ISPThumb512.png
+|   |   |           ISPThumb512.png.meta
+|   |   |           LSPThumb512.png
+|   |   |           LSPThumb512.png.meta
+|   |   |           MVPThumb512.png
+|   |   |           MVPThumb512.png.meta
+|   |   |           MVVMThumb512.png
+|   |   |           MVVMThumb512.png.meta
+|   |   |           ObjectPoolThumb512.png
+|   |   |           ObjectPoolThumb512.png.meta
+|   |   |           ObserverThumb512.png
+|   |   |           ObserverThumb512.png.meta
+|   |   |           OCPThumb512.png
+|   |   |           OCPThumb512.png.meta
+|   |   |           ResourcesThumb512.png
+|   |   |           ResourcesThumb512.png.meta
+|   |   |           SingletonThumb512.png
+|   |   |           SingletonThumb512.png.meta
+|   |   |           SOLIDThumb512.png
+|   |   |           SOLIDThumb512.png.meta
+|   |   |           SRPThumb512.png
+|   |   |           SRPThumb512.png.meta
+|   |   |           StateThumb512.png
+|   |   |           StateThumb512.png.meta
+|   |   |           StrategyThumb512.png
+|   |   |           StrategyThumb512.png.meta
+|   |   |           
+|   |   +---Prefabs
+|   |   |   |   Cameras.meta
+|   |   |   |   Managers.meta
+|   |   |   |   Models.meta
+|   |   |   |   UI.meta
+|   |   |   |   
+|   |   |   +---Cameras
+|   |   |   |       Main Camera.prefab
+|   |   |   |       Main Camera.prefab.meta
+|   |   |   |       Scene Camera.prefab
+|   |   |   |       Scene Camera.prefab.meta
+|   |   |   |       TempCamera.prefab
+|   |   |   |       TempCamera.prefab.meta
+|   |   |   |       
+|   |   |   +---Managers
+|   |   |   |       GameStates.prefab
+|   |   |   |       GameStates.prefab.meta
+|   |   |   |       SceneLoader.prefab
+|   |   |   |       SceneLoader.prefab.meta
+|   |   |   |       SequenceManager.prefab
+|   |   |   |       SequenceManager.prefab.meta
+|   |   |   |       
+|   |   |   +---Models
+|   |   |   |       Plane.prefab
+|   |   |   |       Plane.prefab.meta
+|   |   |   |       
+|   |   |   \---UI
+|   |   |           BootloadScreen.prefab
+|   |   |           BootloadScreen.prefab.meta
+|   |   |           Canvas,WorldSpace.prefab
+|   |   |           Canvas,WorldSpace.prefab.meta
+|   |   |           EventSystem.prefab
+|   |   |           EventSystem.prefab.meta
+|   |   |           InstructionsGUI.prefab
+|   |   |           InstructionsGUI.prefab.meta
+|   |   |           PatternSceneUI.prefab
+|   |   |           PatternSceneUI.prefab.meta
+|   |   |           UIMenuScreens.prefab
+|   |   |           UIMenuScreens.prefab.meta
+|   |   |           
+|   |   +---Scenes
+|   |   |       Boot.unity
+|   |   |       Boot.unity.meta
+|   |   |       Default Lighting Settings.lighting
+|   |   |       Default Lighting Settings.lighting.meta
+|   |   |       DefaultVolumeProfile.asset
+|   |   |       DefaultVolumeProfile.asset.meta
+|   |   |       
+|   |   +---_DesignPatterns
+|   |   |   |   10_DirtyFlag.meta
+|   |   |   |   1_Factory.meta
+|   |   |   |   2_ObjectPool.meta
+|   |   |   |   3_Singleton.meta
+|   |   |   |   4_Command.meta
+|   |   |   |   5_State.meta
+|   |   |   |   6_Observer.meta
+|   |   |   |   7_MVP.meta
+|   |   |   |   7_MVP_UIToolkit.meta
+|   |   |   |   7_MVVM.meta
+|   |   |   |   8_Strategy.meta
+|   |   |   |   9_Flyweight.meta
+|   |   |   |   
+|   |   |   +---10_DirtyFlag
+|   |   |   |   |   DirtyFlag.unity
+|   |   |   |   |   DirtyFlag.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   
+|   |   |   |   \---Prefabs
+|   |   |   |       |   DirtyFlagAssets.prefab
+|   |   |   |       |   DirtyFlagAssets.prefab.meta
+|   |   |   |       |   Unused.meta
+|   |   |   |       |   
+|   |   |   |       \---Unused
+|   |   |   |               Sector0-0.prefab
+|   |   |   |               Sector0-0.prefab.meta
+|   |   |   |               Sector0-1.prefab
+|   |   |   |               Sector0-1.prefab.meta
+|   |   |   |               Sector0-2.prefab
+|   |   |   |               Sector0-2.prefab.meta
+|   |   |   |               Sector0-3.prefab
+|   |   |   |               Sector0-3.prefab.meta
+|   |   |   |               Sector1-0.prefab
+|   |   |   |               Sector1-0.prefab.meta
+|   |   |   |               Sector1-1.prefab
+|   |   |   |               Sector1-1.prefab.meta
+|   |   |   |               Sector1-2.prefab
+|   |   |   |               Sector1-2.prefab.meta
+|   |   |   |               Sector1-3.prefab
+|   |   |   |               Sector1-3.prefab.meta
+|   |   |   |               Sector2-0.prefab
+|   |   |   |               Sector2-0.prefab.meta
+|   |   |   |               Sector2-1.prefab
+|   |   |   |               Sector2-1.prefab.meta
+|   |   |   |               Sector2-2.prefab
+|   |   |   |               Sector2-2.prefab.meta
+|   |   |   |               Sector2-3.prefab
+|   |   |   |               Sector2-3.prefab.meta
+|   |   |   |               Sector3-0.prefab
+|   |   |   |               Sector3-0.prefab.meta
+|   |   |   |               Sector3-1.prefab
+|   |   |   |               Sector3-1.prefab.meta
+|   |   |   |               Sector3-2.prefab
+|   |   |   |               Sector3-2.prefab.meta
+|   |   |   |               Sector3-3.prefab
+|   |   |   |               Sector3-3.prefab.meta
+|   |   |   |               
+|   |   |   +---1_Factory
+|   |   |   |   |   Factory.unity
+|   |   |   |   |   Factory.unity.meta
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   
+|   |   |   |   +---Materials
+|   |   |   |   |       MazerFloor.mat
+|   |   |   |   |       MazerFloor.mat.meta
+|   |   |   |   |       MazeWallsWhite.mat
+|   |   |   |   |       MazeWallsWhite.mat.meta
+|   |   |   |   |       
+|   |   |   |   +---Meshes
+|   |   |   |   |       MazeCourse.fbx
+|   |   |   |   |       MazeCourse.fbx.meta
+|   |   |   |   |       MazeFloor.fbx
+|   |   |   |   |       MazeFloor.fbx.meta
+|   |   |   |   |       
+|   |   |   |   \---Prefabs
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           FactoryAssets.prefab
+|   |   |   |           FactoryAssets.prefab.meta
+|   |   |   |           Lighting.prefab
+|   |   |   |           Lighting.prefab.meta
+|   |   |   |           MazeCourse.prefab
+|   |   |   |           MazeCourse.prefab.meta
+|   |   |   |           ProductA.prefab
+|   |   |   |           ProductA.prefab.meta
+|   |   |   |           ProductB.prefab
+|   |   |   |           ProductB.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           
+|   |   |   +---2_ObjectPool
+|   |   |   |   |   Animations.meta
+|   |   |   |   |   ObjectPool.unity
+|   |   |   |   |   ObjectPool.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   
+|   |   |   |   +---Animations
+|   |   |   |   |   |   Maze.meta
+|   |   |   |   |   |   
+|   |   |   |   |   \---Maze
+|   |   |   |   |           Turret.controller
+|   |   |   |   |           Turret.controller.meta
+|   |   |   |   |           
+|   |   |   |   \---Prefabs
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           ObjectPoolAssets.prefab
+|   |   |   |           ObjectPoolAssets.prefab.meta
+|   |   |   |           Projectile.prefab
+|   |   |   |           Projectile.prefab.meta
+|   |   |   |           RevisedProjectile.prefab
+|   |   |   |           RevisedProjectile.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           Turret.prefab
+|   |   |   |           Turret.prefab.meta
+|   |   |   |           
+|   |   |   +---3_Singleton
+|   |   |   |   |   Audio.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Singleton.unity
+|   |   |   |   |   Singleton.unity.meta
+|   |   |   |   |   
+|   |   |   |   +---Audio
+|   |   |   |   |       MazeComplete.aif
+|   |   |   |   |       MazeComplete.aif.meta
+|   |   |   |   |       
+|   |   |   |   \---Prefabs
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           SingletonAssets.prefab
+|   |   |   |           SingletonAssets.prefab.meta
+|   |   |   |           
+|   |   |   +---4_Command
+|   |   |   |   |   Command.unity
+|   |   |   |   |   Command.unity.meta
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Materials
+|   |   |   |   |       Blue_Mat.mat
+|   |   |   |   |       Blue_Mat.mat.meta
+|   |   |   |   |       Blue_Unlit_Mat.mat
+|   |   |   |   |       Blue_Unlit_Mat.mat.meta
+|   |   |   |   |       CubeMat.mat
+|   |   |   |   |       CubeMat.mat.meta
+|   |   |   |   |       Grid_Mat.mat
+|   |   |   |   |       Grid_Mat.mat.meta
+|   |   |   |   |       LetterMat.mat
+|   |   |   |   |       LetterMat.mat.meta
+|   |   |   |   |       Light_Blue_Mat.mat
+|   |   |   |   |       Light_Blue_Mat.mat.meta
+|   |   |   |   |       Orange_Mat.mat
+|   |   |   |   |       Orange_Mat.mat.meta
+|   |   |   |   |       White_Unlit_Mat.mat
+|   |   |   |   |       White_Unlit_Mat.mat.meta
+|   |   |   |   |       
+|   |   |   |   +---Meshes
+|   |   |   |   |       MazeFloor12x10.fbx
+|   |   |   |   |       MazeFloor12x10.fbx.meta
+|   |   |   |   |       PlayerTile.fbx
+|   |   |   |   |       PlayerTile.fbx.meta
+|   |   |   |   |       
+|   |   |   |   +---Prefabs
+|   |   |   |   |   |   CommandAssets.prefab
+|   |   |   |   |   |   CommandAssets.prefab.meta
+|   |   |   |   |   |   DemoPresenter.prefab
+|   |   |   |   |   |   DemoPresenter.prefab.meta
+|   |   |   |   |   |   Directional Light.prefab
+|   |   |   |   |   |   Directional Light.prefab.meta
+|   |   |   |   |   |   EventSystem.prefab
+|   |   |   |   |   |   EventSystem.prefab.meta
+|   |   |   |   |   |   PathPoint.prefab
+|   |   |   |   |   |   PathPoint.prefab.meta
+|   |   |   |   |   |   Player.prefab
+|   |   |   |   |   |   Player.prefab.meta
+|   |   |   |   |   |   Props.meta
+|   |   |   |   |   |   SceneCamera.prefab
+|   |   |   |   |   |   SceneCamera.prefab.meta
+|   |   |   |   |   |   Wall.prefab
+|   |   |   |   |   |   Wall.prefab.meta
+|   |   |   |   |   |   
+|   |   |   |   |   \---Props
+|   |   |   |   |       |   Meshes.meta
+|   |   |   |   |       |   
+|   |   |   |   |       \---Meshes
+|   |   |   |   |               Barrel_01_snaps002.asset
+|   |   |   |   |               Barrel_01_snaps002.asset.meta
+|   |   |   |   |               Barrel_02_snaps002.asset
+|   |   |   |   |               Barrel_02_snaps002.asset.meta
+|   |   |   |   |               Barrel_03_snaps002.asset
+|   |   |   |   |               Barrel_03_snaps002.asset.meta
+|   |   |   |   |               Barrel_04_snaps002.asset
+|   |   |   |   |               Barrel_04_snaps002.asset.meta
+|   |   |   |   |               Crate_01_snaps002.asset
+|   |   |   |   |               Crate_01_snaps002.asset.meta
+|   |   |   |   |               Crate_02_snaps002.asset
+|   |   |   |   |               Crate_02_snaps002.asset.meta
+|   |   |   |   |               Crate_03_snaps002.asset
+|   |   |   |   |               Crate_03_snaps002.asset.meta
+|   |   |   |   |               Crate_04_snaps002.asset
+|   |   |   |   |               Crate_04_snaps002.asset.meta
+|   |   |   |   |               GuardRail_01_End_snaps002.asset
+|   |   |   |   |               GuardRail_01_End_snaps002.asset.meta
+|   |   |   |   |               GuardRail_01_Joint_snaps002.asset
+|   |   |   |   |               GuardRail_01_Joint_snaps002.asset.meta
+|   |   |   |   |               GuardRail_01_snaps002.asset
+|   |   |   |   |               GuardRail_01_snaps002.asset.meta
+|   |   |   |   |               GuardRail_02_End_snaps002.asset
+|   |   |   |   |               GuardRail_02_End_snaps002.asset.meta
+|   |   |   |   |               GuardRail_02_Plugs_snaps002.asset
+|   |   |   |   |               GuardRail_02_Plugs_snaps002.asset.meta
+|   |   |   |   |               GuardRail_02_snaps002.asset
+|   |   |   |   |               GuardRail_02_snaps002.asset.meta
+|   |   |   |   |               
+|   |   |   |   \---Textures
+|   |   |   |           BackIcon.png
+|   |   |   |           BackIcon.png.meta
+|   |   |   |           ForwardIcon.png
+|   |   |   |           ForwardIcon.png.meta
+|   |   |   |           Grid512x512.png
+|   |   |   |           Grid512x512.png.meta
+|   |   |   |           LeftIcon.png
+|   |   |   |           LeftIcon.png.meta
+|   |   |   |           RedoIcon.png
+|   |   |   |           RedoIcon.png.meta
+|   |   |   |           RightIcon.png
+|   |   |   |           RightIcon.png.meta
+|   |   |   |           UndoIcon.png
+|   |   |   |           UndoIcon.png.meta
+|   |   |   |           
+|   |   |   +---5_State
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   State.unity
+|   |   |   |   |   State.unity.meta
+|   |   |   |   |   
+|   |   |   |   +---Materials
+|   |   |   |   |       GrayBlue_Mat.mat
+|   |   |   |   |       GrayBlue_Mat.mat.meta
+|   |   |   |   |       
+|   |   |   |   +---Meshes
+|   |   |   |   |       MazeFloor.fbx
+|   |   |   |   |       MazeFloor.fbx.meta
+|   |   |   |   |       MazeFloor_Mat.mat
+|   |   |   |   |       MazeFloor_Mat.mat.meta
+|   |   |   |   |       MazeWalls.fbx
+|   |   |   |   |       MazeWalls.fbx.meta
+|   |   |   |   |       
+|   |   |   |   \---Prefabs
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           StateAssets.prefab
+|   |   |   |           StateAssets.prefab.meta
+|   |   |   |           
+|   |   |   +---6_Observer
+|   |   |   |   |   Animation.meta
+|   |   |   |   |   Audio.meta
+|   |   |   |   |   Materials.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   Observer.unity
+|   |   |   |   |   Observer.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Animation
+|   |   |   |   |       ButtonClickAnim.anim
+|   |   |   |   |       ButtonClickAnim.anim.meta
+|   |   |   |   |       
+|   |   |   |   +---Audio
+|   |   |   |   |       MazeComplete.aif
+|   |   |   |   |       MazeComplete.aif.meta
+|   |   |   |   |       MenuSelect.aif
+|   |   |   |   |       MenuSelect.aif.meta
+|   |   |   |   |       
+|   |   |   |   +---Materials
+|   |   |   |   |       ButtonMat.mat
+|   |   |   |   |       ButtonMat.mat.meta
+|   |   |   |   |       ParticleConfetti.mat
+|   |   |   |   |       ParticleConfetti.mat.meta
+|   |   |   |   |       Speaker_Mat.mat
+|   |   |   |   |       Speaker_Mat.mat.meta
+|   |   |   |   |       
+|   |   |   |   +---Meshes
+|   |   |   |   |       MazeParticleConfetti.fbx
+|   |   |   |   |       MazeParticleConfetti.fbx.meta
+|   |   |   |   |       Speaker.fbx
+|   |   |   |   |       Speaker.fbx.meta
+|   |   |   |   |       SpeakerSmall.fbx
+|   |   |   |   |       SpeakerSmall.fbx.meta
+|   |   |   |   |       
+|   |   |   |   +---Prefabs
+|   |   |   |   |   |   ButtonSubject.prefab
+|   |   |   |   |   |   ButtonSubject.prefab.meta
+|   |   |   |   |   |   DemoPresenter.prefab
+|   |   |   |   |   |   DemoPresenter.prefab.meta
+|   |   |   |   |   |   EventSystem.prefab
+|   |   |   |   |   |   EventSystem.prefab.meta
+|   |   |   |   |   |   Lighting.prefab
+|   |   |   |   |   |   Lighting.prefab.meta
+|   |   |   |   |   |   ObserverAssets.prefab
+|   |   |   |   |   |   ObserverAssets.prefab.meta
+|   |   |   |   |   |   ParticleSystems.meta
+|   |   |   |   |   |   SceneCamera.prefab
+|   |   |   |   |   |   SceneCamera.prefab.meta
+|   |   |   |   |   |   
+|   |   |   |   |   \---ParticleSystems
+|   |   |   |   |           ConfettiParticles.prefab
+|   |   |   |   |           ConfettiParticles.prefab.meta
+|   |   |   |   |           
+|   |   |   |   \---Textures
+|   |   |   |           GUIPowerMarker.tif
+|   |   |   |           GUIPowerMarker.tif.meta
+|   |   |   |           
+|   |   |   +---7_MVP
+|   |   |   |   |   Audio.meta
+|   |   |   |   |   Meshes.meta
+|   |   |   |   |   MVP.unity
+|   |   |   |   |   MVP.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Audio
+|   |   |   |   |       ShooterTargetHit.aif
+|   |   |   |   |       ShooterTargetHit.aif.meta
+|   |   |   |   |       ShooterTargetMiss.aif
+|   |   |   |   |       ShooterTargetMiss.aif.meta
+|   |   |   |   |       
+|   |   |   |   +---Meshes
+|   |   |   |   |   |   Shooter.meta
+|   |   |   |   |   |   
+|   |   |   |   |   \---Shooter
+|   |   |   |   |           ShooterTarget.fbx
+|   |   |   |   |           ShooterTarget.fbx.meta
+|   |   |   |   |           ShooterTargetShatter.fbx
+|   |   |   |   |           ShooterTargetShatter.fbx.meta
+|   |   |   |   |           
+|   |   |   |   +---Prefabs
+|   |   |   |   |       HealthResetPanel.prefab
+|   |   |   |   |       HealthResetPanel.prefab.meta
+|   |   |   |   |       HealthSlider.prefab
+|   |   |   |   |       HealthSlider.prefab.meta
+|   |   |   |   |       Model.prefab
+|   |   |   |   |       Model.prefab.meta
+|   |   |   |   |       Presenter.prefab
+|   |   |   |   |       Presenter.prefab.meta
+|   |   |   |   |       ShooterTarget.prefab
+|   |   |   |   |       ShooterTarget.prefab.meta
+|   |   |   |   |       ShooterTargetShatter.prefab
+|   |   |   |   |       ShooterTargetShatter.prefab.meta
+|   |   |   |   |       TargetMesh.prefab
+|   |   |   |   |       TargetMesh.prefab.meta
+|   |   |   |   |       View.prefab
+|   |   |   |   |       View.prefab.meta
+|   |   |   |   |       
+|   |   |   |   \---Textures
+|   |   |   |           HealthIcon.png
+|   |   |   |           HealthIcon.png.meta
+|   |   |   |           ShooterTargetAlbedo.tif
+|   |   |   |           ShooterTargetAlbedo.tif.meta
+|   |   |   |           
+|   |   |   +---7_MVP_UIToolkit
+|   |   |   |   |   Data.meta
+|   |   |   |   |   MVP_UIToolkit.unity
+|   |   |   |   |   MVP_UIToolkit.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   
+|   |   |   |   +---Data
+|   |   |   |   |       HealthData.asset
+|   |   |   |   |       HealthData.asset.meta
+|   |   |   |   |       
+|   |   |   |   \---Prefabs
+|   |   |   |           AudioManager.prefab
+|   |   |   |           AudioManager.prefab.meta
+|   |   |   |           DamageTrigger (Click to Damage).prefab
+|   |   |   |           DamageTrigger (Click to Damage).prefab.meta
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           Directional Light.prefab
+|   |   |   |           Directional Light.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           HealthPresenter.prefab
+|   |   |   |           HealthPresenter.prefab.meta
+|   |   |   |           HealthViewModel.prefab
+|   |   |   |           HealthViewModel.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           
+|   |   |   +---7_MVVM
+|   |   |   |   |   MVVM.unity
+|   |   |   |   |   MVVM.unity.meta
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   
+|   |   |   |   \---Prefabs
+|   |   |   |           DemoPresenter.prefab
+|   |   |   |           DemoPresenter.prefab.meta
+|   |   |   |           Directional Light.prefab
+|   |   |   |           Directional Light.prefab.meta
+|   |   |   |           EventSystem.prefab
+|   |   |   |           EventSystem.prefab.meta
+|   |   |   |           MVVMAssets.prefab
+|   |   |   |           MVVMAssets.prefab.meta
+|   |   |   |           SceneCamera.prefab
+|   |   |   |           SceneCamera.prefab.meta
+|   |   |   |           
+|   |   |   +---8_Strategy
+|   |   |   |   |   Prefabs.meta
+|   |   |   |   |   Strategy.unity
+|   |   |   |   |   Strategy.unity.meta
+|   |   |   |   |   Textures.meta
+|   |   |   |   |   
+|   |   |   |   +---Prefabs
+|   |   |   |   |       AirSupportFX.prefab
+|   |   |   |   |       AirSupportFX.prefab.meta
+|   |   |   |   |       DemoPresenter.prefab
+|   |   |   |   |       DemoPresenter.prefab.meta
+|   |   |   |   |       EventSystem.prefab
+|   |   |   |   |       EventSystem.prefab.meta
+|   |   |   |   |       FirstAidFX.prefab
+|   |   |   |   |       FirstAidFX.prefab.meta
+|   |   |   |   |       RadarFX.prefab
+|   |   |   |   |       RadarFX.prefab.meta
+|   |   |   |   |       Scene Camera.prefab
+|   |   |   |   |       Scene Camera.prefab.meta
+|   |   |   |   |       SoundEffectManager.prefab
+|   |   |   |   |       SoundEffectManager.prefab.meta
+|   |   |   |   |       SoundManager.prefab
+|   |   |   |   |       SoundManager.prefab.meta
+|   |   |   |   |       StrategyAssets.prefab
+|   |   |   |   |       StrategyAssets.prefab.meta
+|   |   |   |   |       
+|   |   |   |   \---Textures
+|   |   |   |           AirSupportIcon.png
+|   |   |   |           AirSupportIcon.png.meta
+|   |   |   |           BoltIcon.png
+|   |   |   |           BoltIcon.png.meta
+|   |   |   |           FirstAidIcon.png
+|   |   |   |           FirstAidIcon.png.meta
+|   |   |   |           RadarIcon.png
+|   |   |   |           RadarIcon.png.meta
+|   |   |   |           ShieldIcon.png
+|   |   |   |           ShieldIcon.png.meta
+|   |   |   |           
+|   |   |   \---9_Flyweight
+|   |   |       |   Flyweight.unity
+|   |   |       |   Flyweight.unity.meta
+|   |   |       |   Prefabs.meta
+|   |   |       |   ScriptableObjects.meta
+|   |   |       |   
+|   |   |       +---Prefabs
+|   |   |       |       DemoPresenter.prefab
+|   |   |       |       DemoPresenter.prefab.meta
+|   |   |       |       EventSystem.prefab
+|   |   |       |       EventSystem.prefab.meta
+|   |   |       |       Lighting.prefab
+|   |   |       |       Lighting.prefab.meta
+|   |   |       |       Scene Camera.prefab
+|   |   |       |       Scene Camera.prefab.meta
+|   |   |       |       Ship.prefab
+|   |   |       |       Ship.prefab.meta
+|   |   |       |       ShipUnrefactored.prefab
+|   |   |       |       ShipUnrefactored.prefab.meta
+|   |   |       |       
+|   |   |       \---ScriptableObjects
+|   |   |               ShipData.asset
+|   |   |               ShipData.asset.meta
+|   |   |               
+|   |   \---_SOLID
+|   |       |   1_SingleResponsibility.meta
+|   |       |   2_OpenClosed.meta
+|   |       |   3_LiskovSubstitution.meta
+|   |       |   4_InterfaceSegregation.meta
+|   |       |   5_DependencyInversion.meta
+|   |       |   
+|   |       +---1_SingleResponsibility
+|   |       |   |   Prefabs.meta
+|   |       |   |   SingleResponsibility.unity
+|   |       |   |   SingleResponsibility.unity.meta
+|   |       |   |   
+|   |       |   \---Prefabs
+|   |       |           DemoPresenter.prefab
+|   |       |           DemoPresenter.prefab.meta
+|   |       |           Lighting.prefab
+|   |       |           Lighting.prefab.meta
+|   |       |           Scene Camera.prefab
+|   |       |           Scene Camera.prefab.meta
+|   |       |           SingleResponsibilityAssets.prefab
+|   |       |           SingleResponsibilityAssets.prefab.meta
+|   |       |           
+|   |       +---2_OpenClosed
+|   |       |   |   OpenClosed.unity
+|   |       |   |   OpenClosed.unity.meta
+|   |       |   |   Prefabs.meta
+|   |       |   |   
+|   |       |   \---Prefabs
+|   |       |           Bounds.prefab
+|   |       |           Bounds.prefab.meta
+|   |       |           DemoPresenter.prefab
+|   |       |           DemoPresenter.prefab.meta
+|   |       |           Lighting.prefab
+|   |       |           Lighting.prefab.meta
+|   |       |           OpenClosedAssets.prefab
+|   |       |           OpenClosedAssets.prefab.meta
+|   |       |           Scene Camera.prefab
+|   |       |           Scene Camera.prefab.meta
+|   |       |           
+|   |       +---3_LiskovSubstitution
+|   |       |   |   LiskovSubstitution.asset
+|   |       |   |   LiskovSubstitution.asset.meta
+|   |       |   |   LiskovSubstitution.unity
+|   |       |   |   LiskovSubstitution.unity.meta
+|   |       |   |   Prefabs.meta
+|   |       |   |   
+|   |       |   \---Prefabs
+|   |       |           Bounds.prefab
+|   |       |           Bounds.prefab.meta
+|   |       |           DemoPresenter.prefab
+|   |       |           DemoPresenter.prefab.meta
+|   |       |           HealthBoost.prefab
+|   |       |           HealthBoost.prefab.meta
+|   |       |           InvulnerabilityPowerUp.prefab
+|   |       |           InvulnerabilityPowerUp.prefab.meta
+|   |       |           Lighting.prefab
+|   |       |           Lighting.prefab.meta
+|   |       |           LiskovSubstitutionAssets.prefab
+|   |       |           LiskovSubstitutionAssets.prefab.meta
+|   |       |           Scene Camera.prefab
+|   |       |           Scene Camera.prefab.meta
+|   |       |           
+|   |       +---4_InterfaceSegregation
+|   |       |   |   InterfaceSegregation.meta
+|   |       |   |   InterfaceSegregation.unity
+|   |       |   |   InterfaceSegregation.unity.meta
+|   |       |   |   InterfaceSegregationLighting.lighting
+|   |       |   |   InterfaceSegregationLighting.lighting.meta
+|   |       |   |   Prefabs.meta
+|   |       |   |   
+|   |       |   +---InterfaceSegregation
+|   |       |   |       ISPVolumeOProfile.asset
+|   |       |   |       ISPVolumeOProfile.asset.meta
+|   |       |   |       
+|   |       |   \---Prefabs
+|   |       |           CircleFX.prefab
+|   |       |           CircleFX.prefab.meta
+|   |       |           DemoPresenter.prefab
+|   |       |           DemoPresenter.prefab.meta
+|   |       |           EventSystem.prefab
+|   |       |           EventSystem.prefab.meta
+|   |       |           HealthUI.prefab
+|   |       |           HealthUI.prefab.meta
+|   |       |           InterfaceSegregationAssets.prefab
+|   |       |           InterfaceSegregationAssets.prefab.meta
+|   |       |           Lighting.prefab
+|   |       |           Lighting.prefab.meta
+|   |       |           Projectile.prefab
+|   |       |           Projectile.prefab.meta
+|   |       |           Scene Camera.prefab
+|   |       |           Scene Camera.prefab.meta
+|   |       |           Target.prefab
+|   |       |           Target.prefab.meta
+|   |       |           
+|   |       \---5_DependencyInversion
+|   |           |   DependencyInversion.lighting
+|   |           |   DependencyInversion.lighting.meta
+|   |           |   DependencyInversion.unity
+|   |           |   DependencyInversion.unity.meta
+|   |           |   DependencyInversionProfile.asset
+|   |           |   DependencyInversionProfile.asset.meta
+|   |           |   Materials.meta
+|   |           |   Meshes.meta
+|   |           |   Prefabs.meta
+|   |           |   
+|   |           +---Materials
+|   |           |       FloorMat.mat
+|   |           |       FloorMat.mat.meta
+|   |           |       
+|   |           +---Meshes
+|   |           |       DoorWall.fbx
+|   |           |       DoorWall.fbx.meta
+|   |           |       FloorWithOpening.fbx
+|   |           |       FloorWithOpening.fbx.meta
+|   |           |       
+|   |           \---Prefabs
+|   |                   DemoPresenter.prefab
+|   |                   DemoPresenter.prefab.meta
+|   |                   DependencyInversionAssets.prefab
+|   |                   DependencyInversionAssets.prefab.meta
+|   |                   EventSystem.prefab
+|   |                   EventSystem.prefab.meta
+|   |                   Lighting.prefab
+|   |                   Lighting.prefab.meta
+|   |                   Scene Camera.prefab
+|   |                   Scene Camera.prefab.meta
+|   |                   
+|   +---RobotKyle
+|   |   |   Animations.meta
+|   |   |   Materials.meta
+|   |   |   Models.meta
+|   |   |   Prefabs.meta
+|   |   |   Sfx.meta
+|   |   |   Textures.meta
+|   |   |   
+|   |   +---Animations
+|   |   |       Jump--InAir.anim.fbx
+|   |   |       Jump--InAir.anim.fbx.meta
+|   |   |       Jump--Jump.anim.fbx
+|   |   |       Jump--Jump.anim.fbx.meta
+|   |   |       Locomotion--Run_N.anim.fbx
+|   |   |       Locomotion--Run_N.anim.fbx.meta
+|   |   |       Locomotion--Run_N_Land.anim.fbx
+|   |   |       Locomotion--Run_N_Land.anim.fbx.meta
+|   |   |       Locomotion--Run_S.anim.fbx
+|   |   |       Locomotion--Run_S.anim.fbx.meta
+|   |   |       Locomotion--Walk_N.anim.fbx
+|   |   |       Locomotion--Walk_N.anim.fbx.meta
+|   |   |       Locomotion--Walk_N_Land.anim.fbx
+|   |   |       Locomotion--Walk_N_Land.anim.fbx.meta
+|   |   |       Stand--Idle.anim.fbx
+|   |   |       Stand--Idle.anim.fbx.meta
+|   |   |       StarterAssetsThirdPerson.controller
+|   |   |       StarterAssetsThirdPerson.controller.meta
+|   |   |       
+|   |   +---Materials
+|   |   |       KyleRobot.mat
+|   |   |       KyleRobot.mat.meta
+|   |   |       
+|   |   +---Models
+|   |   |       KyleRobot.fbx
+|   |   |       KyleRobot.fbx.meta
+|   |   |       
+|   |   +---Prefabs
+|   |   |       RobotKyle.prefab
+|   |   |       RobotKyle.prefab.meta
+|   |   |       
+|   |   +---Sfx
+|   |   |       Player_Footstep_01.wav
+|   |   |       Player_Footstep_01.wav.meta
+|   |   |       Player_Footstep_02.wav
+|   |   |       Player_Footstep_02.wav.meta
+|   |   |       Player_Footstep_03.wav
+|   |   |       Player_Footstep_03.wav.meta
+|   |   |       Player_Footstep_04.wav
+|   |   |       Player_Footstep_04.wav.meta
+|   |   |       Player_Footstep_05.wav
+|   |   |       Player_Footstep_05.wav.meta
+|   |   |       Player_Footstep_06.wav
+|   |   |       Player_Footstep_06.wav.meta
+|   |   |       Player_Footstep_07.wav
+|   |   |       Player_Footstep_07.wav.meta
+|   |   |       Player_Footstep_08.wav
+|   |   |       Player_Footstep_08.wav.meta
+|   |   |       Player_Footstep_09.wav
+|   |   |       Player_Footstep_09.wav.meta
+|   |   |       Player_Footstep_10.wav
+|   |   |       Player_Footstep_10.wav.meta
+|   |   |       Player_Land.wav
+|   |   |       Player_Land.wav.meta
+|   |   |       
+|   |   \---Textures
+|   |           KyleRobot_BaseMap.png
+|   |           KyleRobot_BaseMap.png.meta
+|   |           KyleRobot_Metallic.png
+|   |           KyleRobot_Metallic.png.meta
+|   |           KyleRobot_Normal.png
+|   |           KyleRobot_Normal.png.meta
+|   |           
+|   +---Scenes
+|   |   |   Playground.meta
+|   |   |   Playground.unity
+|   |   |   Playground.unity.meta
+|   |   |   PlaygroundSettings.lighting
+|   |   |   PlaygroundSettings.lighting.meta
+|   |   |   
+|   |   \---Playground
+|   |           LightingData.asset
+|   |           LightingData.asset.meta
+|   |           ReflectionProbe-0.exr
+|   |           ReflectionProbe-0.exr.meta
+|   |           ReflectionProbe-1.exr
+|   |           ReflectionProbe-1.exr.meta
+|   |           ReflectionProbe-2.exr
+|   |           ReflectionProbe-2.exr.meta
+|   |           
+|   +---Settings
+|   |       StarterAssetsHDRPVolumeProfile.asset
+|   |       StarterAssetsHDRPVolumeProfile.asset.meta
+|   |       StarterAssetsURPAsset.asset
+|   |       StarterAssetsURPAsset.asset.meta
+|   |       StarterAssetsURPGlobalSettings.asset
+|   |       StarterAssetsURPGlobalSettings.asset.meta
+|   |       StarterAssetsURPRenderer.asset
+|   |       StarterAssetsURPRenderer.asset.meta
+|   |       
+|   \---StarterAssets
+|       |   Environment.meta
+|       |   InputSystem.meta
+|       |   Mobile.meta
+|       |   StarterAssets_Documentation_v1.1.pdf
+|       |   StarterAssets_Documentation_v1.1.pdf.meta
+|       |   ThirdPersonController.meta
+|       |   
+|       +---Environment
+|       |   |   Art.meta
+|       |   |   
+|       |   \---Art
+|       |       |   Materials.meta
+|       |       |   Models.meta
+|       |       |   Skybox.meta
+|       |       |   
+|       |       +---Materials
+|       |       |       Blue_Mat.mat
+|       |       |       Blue_Mat.mat.meta
+|       |       |       
+|       |       +---Models
+|       |       |       Ramp_100x100x200_Mesh.fbx
+|       |       |       Ramp_100x100x200_Mesh.fbx.meta
+|       |       |       
+|       |       \---Skybox
+|       |               SkyboxLite.mat
+|       |               SkyboxLite.mat.meta
+|       |               SkyboxLiteWarm.mat
+|       |               SkyboxLiteWarm.mat.meta
+|       |               
+|       +---InputSystem
+|       |       StarterAssets.inputactions
+|       |       StarterAssets.inputactions.meta
+|       |       StarterAssets.inputsettings.asset
+|       |       StarterAssets.inputsettings.asset.meta
+|       |       StarterAssetsInputs.cs
+|       |       StarterAssetsInputs.cs.meta
+|       |       
+|       +---Mobile
+|       |   |   Prefabs.meta
+|       |   |   Scripts.meta
+|       |   |   UI.meta
+|       |   |   
+|       |   +---Prefabs
+|       |   |   |   CanvasInputs.meta
+|       |   |   |   EventSystem.meta
+|       |   |   |   VirtualInputs.meta
+|       |   |   |   
+|       |   |   +---CanvasInputs
+|       |   |   |       UI_Canvas_StarterAssetsInputs_Joysticks.prefab
+|       |   |   |       UI_Canvas_StarterAssetsInputs_Joysticks.prefab.meta
+|       |   |   |       UI_Canvas_StarterAssetsInputs_TouchZones.prefab
+|       |   |   |       UI_Canvas_StarterAssetsInputs_TouchZones.prefab.meta
+|       |   |   |       
+|       |   |   +---EventSystem
+|       |   |   |       UI_EventSystem.prefab
+|       |   |   |       UI_EventSystem.prefab.meta
+|       |   |   |       
+|       |   |   \---VirtualInputs
+|       |   |           UI_Virtual_Button.prefab
+|       |   |           UI_Virtual_Button.prefab.meta
+|       |   |           UI_Virtual_Joystick.prefab
+|       |   |           UI_Virtual_Joystick.prefab.meta
+|       |   |           UI_Virtual_TouchZone.prefab
+|       |   |           UI_Virtual_TouchZone.prefab.meta
+|       |   |           
+|       |   +---Scripts
+|       |   |   |   CanvasInputs.meta
+|       |   |   |   Utilities.meta
+|       |   |   |   VirtualInputs.meta
+|       |   |   |   
+|       |   |   +---CanvasInputs
+|       |   |   |       UICanvasControllerInput.cs
+|       |   |   |       UICanvasControllerInput.cs.meta
+|       |   |   |       
+|       |   |   +---Utilities
+|       |   |   |       MobileDisableAutoSwitchControls.cs
+|       |   |   |       MobileDisableAutoSwitchControls.cs.meta
+|       |   |   |       
+|       |   |   \---VirtualInputs
+|       |   |           UIVirtualButton.cs
+|       |   |           UIVirtualButton.cs.meta
+|       |   |           UIVirtualJoystick.cs
+|       |   |           UIVirtualJoystick.cs.meta
+|       |   |           UIVirtualTouchZone.cs
+|       |   |           UIVirtualTouchZone.cs.meta
+|       |   |           
+|       |   \---UI
+|       |           UI_Circle_Bevel_Base.png
+|       |           UI_Circle_Bevel_Base.png.meta
+|       |           UI_Circle_Faded.png
+|       |           UI_Circle_Faded.png.meta
+|       |           UI_Icon_Jump.png
+|       |           UI_Icon_Jump.png.meta
+|       |           UI_Icon_Look.png
+|       |           UI_Icon_Look.png.meta
+|       |           UI_Icon_Move.png
+|       |           UI_Icon_Move.png.meta
+|       |           UI_Icon_Sprint.png
+|       |           UI_Icon_Sprint.png.meta
+|       |           
+|       \---ThirdPersonController
+|           |   Prefabs.meta
+|           |   Scripts.meta
+|           |   
+|           +---Prefabs
+|           |       MainCamera.prefab
+|           |       MainCamera.prefab.meta
+|           |       PlayerFollowCamera.prefab
+|           |       PlayerFollowCamera.prefab.meta
+|           |       
+|           \---Scripts
+|                   BasicRigidBodyPush.cs
+|                   BasicRigidBodyPush.cs.meta
+|                   ThirdPersonController.cs
+|                   ThirdPersonController.cs.meta
+|                   
+\---_ThirdParty
+    |   Fonts.meta
+    |   
+    \---Fonts
+        |   Inter.meta
+        |   Roboto.meta
+        |   
+        +---Inter
+        |       Inter-VariableFont_slnt,wght SDF.asset
+        |       Inter-VariableFont_slnt,wght SDF.asset.meta
+        |       Inter-VariableFont_slnt,wght SDFTMP.asset
+        |       Inter-VariableFont_slnt,wght SDFTMP.asset.meta
+        |       Inter-VariableFont_slnt,wght.ttf
+        |       Inter-VariableFont_slnt,wght.ttf.meta
+        |       
+        \---Roboto
+                Roboto-Black SDF.asset
+                Roboto-Black SDF.asset.meta
+                Roboto-Black.ttf
+                Roboto-Black.ttf.meta
+                Roboto-Bold.ttf
+                Roboto-Bold.ttf.meta
+                Roboto-Light.ttf
+                Roboto-Light.ttf.meta
+                Roboto-Medium SDF.asset
+                Roboto-Medium SDF.asset.meta
+                Roboto-Medium.ttf
+                Roboto-Medium.ttf.meta
+                Roboto-Regular.ttf
+                Roboto-Regular.ttf.meta
+                Roboto-Thin.ttf
+                Roboto-Thin.ttf.meta
+                
